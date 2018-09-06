@@ -1,0 +1,1 @@
+XCOPY <somefile> <somewhere> \Y
